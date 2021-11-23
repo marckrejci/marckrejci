@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://marckrejci.github.io/marckrejci/sitemap.xml
+Disallow: /
