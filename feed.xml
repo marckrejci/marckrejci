@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Marc Krejci</title>
+    <link href="https://marckrejci.github.io/marckrejci/feed.xml" rel="self" />
+    <link href="https://marckrejci.github.io/marckrejci" />
+    <updated>2021-11-17T07:47:49-08:00</updated>
+    <author>
+        <name>Marc Krejci</name>
+    </author>
+    <id>https://marckrejci.github.io/marckrejci</id>
+
+    <entry>
+        <title>Podcasts</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/podcasts/"/>
+        <id>https://marckrejci.github.io/marckrejci/podcasts/</id>
+
+        <updated>2021-11-04T10:43:57-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Combining my knowledge of software development and audio engineering, I started creating podcasts in the earliest days of the medium back in 2005.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Combining my knowledge of software development and audio engineering, I started creating podcasts in the earliest days of the medium back in 2005. Since that time, I have published hundreds of episodes across a half dozen podcasts. While I am not actively publishing very much these days, I am still very involved in content creation business through <a target="_blank" href="https://congo.io/" rel="noopener">Congo</a>.</p>
+<p>d</p>
+<table style="border-collapse: collapse; width: 100%; background-color: #ffffff; border-color: #ffffff;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://marckrejci.github.io/marckrejci/media/posts/29/arun1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-xs.jpg 300w ,https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-sm.jpg 480w ,https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-md.jpg 768w ,https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-lg.jpg 1024w ,https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-xl.jpg 1360w ,https://marckrejci.github.io/marckrejci/media/posts/29/responsive/arun1-2xl.jpg 1600w"  alt="" width="400" height="400"></figure>a RUN supreme</p>
+<p>alsdkfja;lsk s</p>
+</td>
+</tr>
+<tr>
+<td style="width: 100%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;"> </td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>a RUN supreme</h2>
+<p>lkjasdf</p>
+<hr>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://marckrejci.github.io/marckrejci/media/posts/29//realcomm2a.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-xs.jpg 300w ,https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-sm.jpg 480w ,https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-md.jpg 768w ,https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-lg.jpg 1024w ,https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-xl.jpg 1360w ,https://marckrejci.github.io/marckrejci/media/posts/29//responsive/realcomm2a-2xl.jpg 1600w"  alt="bipity blopity bloop" width="600" height="600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Metova</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/metova/"/>
+        <id>https://marckrejci.github.io/marckrejci/metova/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T15:42:57-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Agency model...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Agency model...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Realcomm Conference</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/realcomm-conference/"/>
+        <id>https://marckrejci.github.io/marckrejci/realcomm-conference/</id>
+            <category term="Podcast"/>
+
+        <updated>2021-11-03T16:41:49-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://marckrejci.github.io/marckrejci/media/posts/22/realcommdevice.jpeg" alt="" />
+                    Web | iTunes | Google Play
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://marckrejci.github.io/marckrejci/media/posts/22/realcommdevice.jpeg" alt="" />
+                <p><a href="https://marckrejci.squarespace.com/realcomm">Web</a> | <a href="https://itunes.apple.com/us/podcast/realcomm-2007/id1130664022?mt=2" target="_blank" rel="noopener">iTunes</a> | <a href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Is2icq6uvo3ycbmdxqu2b74jc24?t%3DRealcomm_2007" target="_blank" rel="noopener">Google Play</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nashville Market Report</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/nashville-market-report/"/>
+        <id>https://marckrejci.github.io/marckrejci/nashville-market-report/</id>
+            <category term="Podcast"/>
+
+        <updated>2021-11-03T16:36:37-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://marckrejci.github.io/marckrejci/media/posts/21/nashvillemarketreportdevice.jpeg" alt="" />
+                    NAI podcast...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://marckrejci.github.io/marckrejci/media/posts/21/nashvillemarketreportdevice.jpeg" alt="" />
+                <p>NAI podcast...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Affero Project</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/affero-project/"/>
+        <id>https://marckrejci.github.io/marckrejci/affero-project/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T15:28:01-07:00</updated>
+            <summary>
+                <![CDATA[
+                    more soon...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>more soon...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spotify Naxos Music Streaming</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/spotify-naxos-music-streaming/"/>
+        <id>https://marckrejci.github.io/marckrejci/spotify-naxos-music-streaming/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T15:27:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Qlasical proposal...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Qlasical proposal...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FastPitch</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/fastpitch/"/>
+        <id>https://marckrejci.github.io/marckrejci/fastpitch/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T15:25:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Event...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Event...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>YouTube Music Ingestion</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/youtube-music-ingestion-engine/"/>
+        <id>https://marckrejci.github.io/marckrejci/youtube-music-ingestion-engine/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T15:09:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    details soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>details soon</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Music Box</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/music-box/"/>
+        <id>https://marckrejci.github.io/marckrejci/music-box/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-03T14:35:18-07:00</updated>
+            <summary>
+                <![CDATA[
+                    soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>soon</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Together</title>
+        <author>
+            <name>Marc Krejci</name>
+        </author>
+        <link href="https://marckrejci.github.io/marckrejci/together/"/>
+        <id>https://marckrejci.github.io/marckrejci/together/</id>
+            <category term="Projects"/>
+
+        <updated>2021-11-17T07:47:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    soon...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>soon...</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
