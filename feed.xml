@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Marc Krejci</title>
-    <link href="https://marckrejci.github.io/marckrejci/feed.xml" rel="self" />
-    <link href="https://marckrejci.github.io/marckrejci" />
+    <link href="https://marckrejci.com/feed.xml" rel="self" />
+    <link href="https://marckrejci.com" />
     <updated>2022-04-22T22:53:56-07:00</updated>
     <author>
         <name>Marc Krejci</name>
     </author>
-    <id>https://marckrejci.github.io/marckrejci</id>
+    <id>https://marckrejci.com</id>
 
     <entry>
         <title>Race the Trace</title>
         <author>
             <name>Marc Krejci</name>
         </author>
-        <link href="https://marckrejci.github.io/marckrejci/racethetrace/"/>
-        <id>https://marckrejci.github.io/marckrejci/racethetrace/</id>
+        <link href="https://marckrejci.com/racethetrace/"/>
+        <id>https://marckrejci.com/racethetrace/</id>
 
         <updated>2022-04-22T22:53:56-07:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--right"><a href="https://www.nps.gov/natr/planyourvisit/maps.htm" target="_blank" rel="noopener"><img loading="lazy"  src="https://marckrejci.github.io/marckrejci/media/posts/3/image-asset.jpg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://marckrejci.github.io/marckrejci/media/posts/3/responsive/image-asset-xs.jpg 300w ,https://marckrejci.github.io/marckrejci/media/posts/3/responsive/image-asset-sm.jpg 480w ,https://marckrejci.github.io/marckrejci/media/posts/3/responsive/image-asset-md.jpg 768w ,https://marckrejci.github.io/marckrejci/media/posts/3/responsive/image-asset-lg.jpg 1024w ,https://marckrejci.github.io/marckrejci/media/posts/3/responsive/image-asset-xl.jpg 1360w"  alt="" width="500" height="2257"></figure></a>From <a href="http://www.wsmv.com/story/15220520/runner-plans-to-finish-444-mile-natchez-trace-run" target="_blank" rel="noopener">WSMV</a> the day before finishing:</p>
+                <figure class="post__image post__image--right"><a href="https://www.nps.gov/natr/planyourvisit/maps.htm" target="_blank" rel="noopener"><img loading="lazy"  src="https://marckrejci.com/media/posts/3/image-asset.jpg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://marckrejci.com/media/posts/3/responsive/image-asset-xs.jpg 300w ,https://marckrejci.com/media/posts/3/responsive/image-asset-sm.jpg 480w ,https://marckrejci.com/media/posts/3/responsive/image-asset-md.jpg 768w ,https://marckrejci.com/media/posts/3/responsive/image-asset-lg.jpg 1024w ,https://marckrejci.com/media/posts/3/responsive/image-asset-xl.jpg 1360w"  alt="" width="500" height="2257"></figure></a>From <a href="http://www.wsmv.com/story/15220520/runner-plans-to-finish-444-mile-natchez-trace-run" target="_blank" rel="noopener">WSMV</a> the day before finishing:</p>
 <p class="msg msg--highlight  msg--info">"If you had to run 444 miles, you couldn't pick a more scenic backdrop than the historic Natchez Trace. Marc Krejci started that undertaking back in May (2011) to raise money for charity, and he says he'll finish it Saturday in Franklin.<br> <br>Krejci planned to run the whole Trace at once, but he says he couldn't take that much time off work. So he's been running about 30 miles a day every weekend, then driving to pick up where he left off the following weekend.<br> <br>"It was 17 days of running. As of tomorrow morning, I will have completed all 444 miles of the Natchez Trace," he said. Krejci says he prepared himself for the long run by changing his running style and going very basic. "I decided I wanted to become an ultra-runner. I went minimalist, I actually went barefoot. I actually shed my shoes and went barefoot running," he said.<br> <br>Krejci plans to run the final four miles starting at the Historic Natchez Trace building in Franklin, and he has invited everyone to run alongside him, then join him at the Loveless Cafe. Supporters can meet up with him at the bridge at 7 a.m. Saturday."</p>
 <h2>Official Record</h2>
 <p><a href="https://fastestknowntime.com/fkt/marc-krejci-natchez-trace-parkway-tn-al-ms-2011-08-05" target="_blank" class="btn btn--outline" rel="noopener">Fastest Known Times</a></p>
@@ -43,8 +43,8 @@
         <author>
             <name>Marc Krejci</name>
         </author>
-        <link href="https://marckrejci.github.io/marckrejci/resume/"/>
-        <id>https://marckrejci.github.io/marckrejci/resume/</id>
+        <link href="https://marckrejci.com/resume/"/>
+        <id>https://marckrejci.com/resume/</id>
 
         <updated>2022-04-22T22:03:10-07:00</updated>
             <summary>
@@ -82,8 +82,8 @@
         <author>
             <name>Marc Krejci</name>
         </author>
-        <link href="https://marckrejci.github.io/marckrejci/about/"/>
-        <id>https://marckrejci.github.io/marckrejci/about/</id>
+        <link href="https://marckrejci.com/about/"/>
+        <id>https://marckrejci.com/about/</id>
 
         <updated>2022-04-22T22:53:43-07:00</updated>
             <summary>
@@ -93,7 +93,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://marckrejci.github.io/marckrejci/media/posts/1/profile-2.png" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://marckrejci.github.io/marckrejci/media/posts/1/responsive/profile-2-xs.png 300w ,https://marckrejci.github.io/marckrejci/media/posts/1/responsive/profile-2-sm.png 480w ,https://marckrejci.github.io/marckrejci/media/posts/1/responsive/profile-2-md.png 768w ,https://marckrejci.github.io/marckrejci/media/posts/1/responsive/profile-2-lg.png 1024w ,https://marckrejci.github.io/marckrejci/media/posts/1/responsive/profile-2-xl.png 1360w"  alt="" width="164" height="164"></figure>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://marckrejci.com/media/posts/1/profile-2.png" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://marckrejci.com/media/posts/1/responsive/profile-2-xs.png 300w ,https://marckrejci.com/media/posts/1/responsive/profile-2-sm.png 480w ,https://marckrejci.com/media/posts/1/responsive/profile-2-md.png 768w ,https://marckrejci.com/media/posts/1/responsive/profile-2-lg.png 1024w ,https://marckrejci.com/media/posts/1/responsive/profile-2-xl.png 1360w"  alt="" width="164" height="164"></figure>
 <div id="content_664n028kp" class="column-content" data-module="paragraph">
 <div class="is-content">
 <div data-content-for="xl">
@@ -103,14 +103,14 @@
 </div>
 </div>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/PikesPlace.jpg" data-size="1080x1080"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/PikesPlace-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/86B83C7F-DFED-463C-A2D7-4E8863FA2696.jpeg" data-size="1516x1523"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/86B83C7F-DFED-463C-A2D7-4E8863FA2696-thumbnail.jpeg" alt="" width="768" height="772"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/242318871_400058521710095_6938292768304585889_n.jpg" data-size="960x960"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/242318871_400058521710095_6938292768304585889_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_4717.jpeg" data-size="3175x3023"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_4717-thumbnail.jpeg" alt="" width="768" height="731"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/Strawberry.jpg" data-size="1080x810"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/Strawberry-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_0075.JPG" data-size="1537x1537"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_0075-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_6588.jpeg" data-size="3012x3012"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/IMG_6588-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/WorldVisionVR.jpg" data-size="749x749"><img loading="lazy" src="https://marckrejci.github.io/marckrejci/media/posts/1/gallery/WorldVisionVR-thumbnail.jpg" alt="" width="749" height="749"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/PikesPlace.jpg" data-size="1080x1080"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/PikesPlace-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/86B83C7F-DFED-463C-A2D7-4E8863FA2696.jpeg" data-size="1516x1523"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/86B83C7F-DFED-463C-A2D7-4E8863FA2696-thumbnail.jpeg" alt="" width="768" height="772"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/242318871_400058521710095_6938292768304585889_n.jpg" data-size="960x960"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/242318871_400058521710095_6938292768304585889_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/IMG_4717.jpeg" data-size="3175x3023"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/IMG_4717-thumbnail.jpeg" alt="" width="768" height="731"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/Strawberry.jpg" data-size="1080x810"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/Strawberry-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/IMG_0075.JPG" data-size="1537x1537"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/IMG_0075-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/IMG_6588.jpeg" data-size="3012x3012"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/IMG_6588-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://marckrejci.com/media/posts/1/gallery/WorldVisionVR.jpg" data-size="749x749"><img loading="lazy" src="https://marckrejci.com/media/posts/1/gallery/WorldVisionVR-thumbnail.jpg" alt="" width="749" height="749"></a></figure>
 </div></div>
 <h3>Fun Facts</h3>
 <ul class="ordered-list">
