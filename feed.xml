@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Marc Krejci</title>
     <link href="https://marckrejci.com/feed.xml" rel="self" />
     <link href="https://marckrejci.com" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://marckrejci.com/congo/"/>
         <id>https://marckrejci.com/congo/</id>
+        <media:content url="https://marckrejci.com/media/posts/4/Congo1.png" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-06-09T09:19:23-07:00</updated>
@@ -27,7 +28,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/4/Congo1.png" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/4/Congo1.png" class="type:primaryImage" alt="" /></p>
                 <p>Responsible for all efforts across mobile, web and backend SaaS platform that automates post-production of user generated video for brands.</p>
 <h2>Background</h2>
 <p>Initially scratching my own itch as a content producer, I set out to build a tool that automates the post-production editing and syndication process.</p>
@@ -57,6 +58,7 @@
         </author>
         <link href="https://marckrejci.com/together/"/>
         <id>https://marckrejci.com/together/</id>
+        <media:content url="https://marckrejci.com/media/posts/5/Together-App-Project-Cover.png" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-06-09T09:17:15-07:00</updated>
@@ -68,7 +70,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/5/Together-App-Project-Cover.png" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/5/Together-App-Project-Cover.png" class="type:primaryImage" alt="" /></p>
                 <p>Digitized a traditionally in-person experience of small group learning, leading all efforts to conceptualize, build and test a mobile app for small study groups.</p>
 <h2>Background</h2>
 <p>Running dozens of in-person small group studies with physical books and DVD's each year, Venture wanted to decrease the cost outlay and close the feedback loop of measuring effectiveness.</p>
@@ -96,6 +98,7 @@
         </author>
         <link href="https://marckrejci.com/venture/"/>
         <id>https://marckrejci.com/venture/</id>
+        <media:content url="https://marckrejci.com/media/posts/6/Venture-Innovation-Cover-Art.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-06-09T09:17:28-07:00</updated>
@@ -107,7 +110,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/6/Venture-Innovation-Cover-Art.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/6/Venture-Innovation-Cover-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Desiring to grow their digital footprint without physical buildings, I led initiatives creating technologies alongside Christian professionals in the Bay Area volunteering their efforts.</p>
 <h2>Background</h2>
 <p>With campus attendance mazed out and still growing, Venture wanted to extend its reach into new digital realms.</p>
@@ -133,6 +136,7 @@
         </author>
         <link href="https://marckrejci.com/metova/"/>
         <id>https://marckrejci.com/metova/</id>
+        <media:content url="https://marckrejci.com/media/posts/7/Metova-Cover-Art.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-06-09T09:17:43-07:00</updated>
@@ -144,7 +148,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/7/Metova-Cover-Art.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/7/Metova-Cover-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Mobile software development agency looking to expand service offering into product strategy and design. I overhauled the development workflow into a design thinking led organization, helping quadruple revenue.</p>
 <h2>Background</h2>
 <p>Having built many well known mobile applications early on, Metova wanted to build new strategy and design services into the company workflow.</p>
@@ -172,6 +176,7 @@
         </author>
         <link href="https://marckrejci.com/naxos/"/>
         <id>https://marckrejci.com/naxos/</id>
+        <media:content url="https://marckrejci.com/media/posts/8/Naxos-Cover-Art.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-04-29T11:31:19-07:00</updated>
@@ -183,7 +188,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/8/Naxos-Cover-Art.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/8/Naxos-Cover-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Having the world's largest database of classical music and associated metadata, my role as the Director of Digital Business was to extend the product line into multiple verticals of interactive music products.</p>
 <h2>Background</h2>
 <p>An early forerunner in online streaming music, Naxos desired to launch new digital products stemming from their central database of classical metadata.</p>
@@ -211,6 +216,7 @@
         </author>
         <link href="https://marckrejci.com/affero/"/>
         <id>https://marckrejci.com/affero/</id>
+        <media:content url="https://marckrejci.com/media/posts/9/Affero-Cover-Art-clean-water.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-04-29T11:02:45-07:00</updated>
@@ -222,7 +228,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/9/Affero-Cover-Art-clean-water.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/9/Affero-Cover-Art-clean-water.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Joined startup non-profit to lead all technical production and UX efforts of online giving marketplace that funded NGO's in 12 countries aligning with the UN Millennium Development Goals.</p>
 <h2>Background</h2>
 <p>A grassroots community of global justice advocates who join together to give small change every month and vote to decide where the money goes.</p>
@@ -247,6 +253,7 @@
         </author>
         <link href="https://marckrejci.com/bravato/"/>
         <id>https://marckrejci.com/bravato/</id>
+        <media:content url="https://marckrejci.com/media/posts/10/Bravato-Cover-Art.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-04-29T11:02:17-07:00</updated>
@@ -258,7 +265,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/10/Bravato-Cover-Art.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/10/Bravato-Cover-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Developed online marketplace for live music that connects musicians and venues around the country using advanced profile matching and transitional accountability. </p>
 <h2>Background</h2>
 <p>Small venues have a challenging time booking live talent, and artists have challenges finding paid performance opportunities.</p>
@@ -283,6 +290,7 @@
         </author>
         <link href="https://marckrejci.com/podcasting/"/>
         <id>https://marckrejci.com/podcasting/</id>
+        <media:content url="https://marckrejci.com/media/posts/11/Podcast-Cover-Art.jpg" medium="image" />
             <category term="Portfolio"/>
 
         <updated>2022-04-29T11:01:56-07:00</updated>
@@ -294,7 +302,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://marckrejci.com/media/posts/11/Podcast-Cover-Art.jpg" alt="" />
+                    <p><img src="https://marckrejci.com/media/posts/11/Podcast-Cover-Art.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Combining my knowledge of software development and audio engineering, I started creating podcasts in the earliest days of the medium back in 2003. Since that time, I have published hundreds of episodes across a half dozen podcasts.</p>
 <h2>Background</h2>
 <p>As a lifetime content creator, I began experimenting with online media syndication in 2003 while teaching myself code during audio engineering school.</p>
